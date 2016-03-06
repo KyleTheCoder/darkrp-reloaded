@@ -1,0 +1,3 @@
+DarkRP, called MingeRP by some, is a good Gamemode, easy to edit, nice to play on, Less lag then Sandbox, only thing wrong is the fact that theres a lack of features, this project aims to fix that.
+
+There is a full text of all the Features intended to be in it, there will be a server going up with this soon, the IP of it will be posted soon, it will be on Townsend\_v1.5, since it is 18 Slots, when the Edit is done (Lots of Features and debugging) All the stuff for the Server will be uploaded, under the GNU License... Did I mention this is SeriousRP Intended?
